@@ -19,3 +19,5 @@ Aktuelle Teilnehmer
 - Vaporx
 - daywalker
 - xx
+- [SEK]KampfRoxi
+
