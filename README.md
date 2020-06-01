@@ -20,4 +20,5 @@ Aktuelle Teilnehmer
 - daywalker
 - xx
 - [SEK]KampfRoxi
-
+- Oli der Große
+- Terminator
