@@ -17,3 +17,5 @@ Aktuelle Teilnehmer
 - Kiki II
 - JOKER
 - Vaporx
+- daywalker
+- xx
