@@ -22,3 +22,4 @@ Aktuelle Teilnehmer
 - [SEK]KampfRoxi
 - Oli der Große
 - Terminator
+- VanHelsing II
