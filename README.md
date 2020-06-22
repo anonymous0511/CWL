@@ -1,4 +1,4 @@
-# CWL JUNI
+# CWL JULI
 Aktuelle Teilnehmer
 
 - anonymous
