@@ -2,4 +2,4 @@
 Aktuelle Teilnehmer
 
 - anonymous
--Oli der Große
+- Oli der Große
