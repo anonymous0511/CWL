@@ -2,7 +2,7 @@
 Aktuelle Teilnehmer
 
 - anonymous
-- Oli der Große
+- Oli der Große(D)
 - dirk72
 - Ventiqzz
 - skytixx
@@ -13,7 +13,7 @@ Aktuelle Teilnehmer
 - Svenja84
 - Quang
 - Alex-Rea86
-- JOKER
+- JOKER(D)
 - KC_Quarterback
 - Pennywise
 - Werner
@@ -22,3 +22,5 @@ Aktuelle Teilnehmer
 - Wikti
 - jvc
 - mukkijvc
+- DAG
+
