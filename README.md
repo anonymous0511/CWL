@@ -2,5 +2,5 @@
 Aktuelle Teilnehmer
 
 - anonymous
-- Oli der Große(D)
-- JOKER(D)
+- Oli der Große
+- JOKER
