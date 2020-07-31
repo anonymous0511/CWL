@@ -10,3 +10,5 @@ Aktuelle Teilnehmer
 - ventiqzz
 - Svenja
 - @Phil_cr17
+- dirk72
+- Mr.T
