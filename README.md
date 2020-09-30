@@ -1,11 +1,9 @@
-# CWL September
+# CWL Oktober
 Aktuelle Teilnehmer
 
 - anonymous
 - Oli der Große
 - JOKER
 - =>mar<=
-- ventiqzz
 - Svenja
 - dirk72
-- skytixx
