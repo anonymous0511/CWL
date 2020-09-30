@@ -7,3 +7,5 @@ Aktuelle Teilnehmer
 - =>mar<=
 - Svenja
 - dirk72
+- Kuh Milch
+- Ventiqzz
