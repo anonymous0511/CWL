@@ -1,4 +1,4 @@
-# CWL Oktober
+# CWL November
 Aktuelle Teilnehmer
 
 - anonymous
@@ -7,11 +7,10 @@ Aktuelle Teilnehmer
 - =>mar<=
 - Svenja
 - dirk72
-- Kuh Milch
 - Ventiqzz
-- Jocker
-- Gametime
-- werner
 - Marvia
 - Drake
-- zoocka
+- Nando
+- jvc
+- TobsxD
+- skytixx
