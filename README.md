@@ -1,4 +1,4 @@
-# CWL April
+# CWL Mai
 Aktuelle Teilnehmer
 
 - anonymous
@@ -8,9 +8,8 @@ Aktuelle Teilnehmer
 - Terminator
 - dirk72
 - Drake
-- Gametime
-- Marvia
 - werner
-- adem
-- XxgamerxX
 - Svenja
+- fwbian
+- basti
+- Kuh Milch
