@@ -5,3 +5,6 @@ Aktuelle Teilnehmer
 - Oli der Große
 - JOKER
 - Kuh Milch
+- dirk72
+- Terminator
+- =>mar<=
