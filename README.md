@@ -8,3 +8,5 @@ Aktuelle Teilnehmer
 - dirk72
 - Terminator
 - =>mar<=
+- werner
+- Clementine
