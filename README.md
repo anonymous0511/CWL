@@ -9,4 +9,6 @@ Aktuelle Teilnehmer
 - Terminator
 - =>mar<=
 - werner
-- Clementine
+- Tom
+- T e N-o U 
+- Ventiqzz
