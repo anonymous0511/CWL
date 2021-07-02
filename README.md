@@ -1,4 +1,4 @@
-# CWL Juni
+# CWL Juli
 Aktuelle Teilnehmer
 
 - anonymous
@@ -9,6 +9,6 @@ Aktuelle Teilnehmer
 - Terminator
 - =>mar<=
 - werner
-- Tom
 - T e N-o U 
 - Ventiqzz
+- Bullgard
