@@ -7,4 +7,8 @@ Aktuelle Teilnehmer
 - Kuh Milch
 - =>mar<=
 - werner
-
+- Bullgard
+- TeNoU
+- Bob
+- xelstra
+- AlexAnder
